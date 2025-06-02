@@ -1,12 +1,5 @@
-
-###> symfony/framework-bundle ###
-/.env.local
-/.env.local.php
-/.env.*.local
-/.env
-.env
-/config/secrets/prod/prod.decrypt.private.php
-/public/bundles/
-/var/
+# Ignore vendor and cache
 /vendor/
-###< symfony/framework-bundle ###
+/var/
+.env
+.env.local
