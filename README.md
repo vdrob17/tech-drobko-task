@@ -103,3 +103,7 @@ curl http://localhost:8000/orders
 ```bash
 curl http://localhost:3000/products
 ```
+
+### P.S.
+
+I committed .env , but know it is not good practice, anyway i do not store there any sensitive data
